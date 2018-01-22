@@ -6,6 +6,7 @@ Design a great user experience does not have to be a lengthy process. We can pro
 2. What problems do they have? (5 mins)
 3. What questions might they ask to solve those problems? (5 mins)
 4. Prototype your experience (15) 
+  
   * Pick a group member to act as your Alexa Skill. 
   * Pick another group member to be the questioner. 
   * Practice your questions and answers. 
