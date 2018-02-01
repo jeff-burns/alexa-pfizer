@@ -35,7 +35,7 @@ There are two parts to an Alexa skill. The first part is the [Voice User Interfa
 ![Intents Button](./images/01/1-08-intents-button._TTH_.png)
 9. In the textbox provided, enter the new intent name: GetNewFactIntent., and click the Create Intent button.<br/>
 ![Add Custom Intent](./images/01/1-09-add-custom-intent._TTH_.png)
-10. Add 10-15 sample utterances for your intent. These are the things a user would say to make this intent happen. Here are a few examples:
+10. Add sample utterances for your intent. These are the things a user would say to make this intent happen. Here are a few examples:
   * Give me a fact
   * Tell me a fact
   * Tell me something
@@ -45,7 +45,7 @@ There are two parts to an Alexa skill. The first part is the [Voice User Interfa
 12. If your interaction model builds successfully, click on Configuration button to move on to Configuration. <br/>![Configuration](./images/01/1-13-skill-builder-configuration.png)
 
 ### Next Steps
-In [part two](./workshop_02.md) of this guide, we will be creating our Lambda function in the AWS developer console, but keep this browser tab open, because we will be returning here on [part 3](./workshop_03.md): Connect VUI to Code. 
+In [part two](./workshop_02.md) of this guide, we will be creating our Lambda function in the AWS developer console, but keep this browser tab open, because we will be returning here on [part 3](./workshop_03.md): Connect VUI to Code.
 
 ### Troubleshooting
 If you get an error from your interaction model, check through this list:
