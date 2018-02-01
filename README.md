@@ -1,5 +1,7 @@
 # Designing for Voice with Amazon Alexa
 
+* [AWS and Amazon Developer Account Creation Walkthrough](./aws_dev_account_creation.pages)
+
 ## Workshop Agenda
 
 ### Welcome and Intro to Alexa
