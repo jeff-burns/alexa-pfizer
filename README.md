@@ -26,7 +26,7 @@ Each group will present their prototype.
 ## Workshop Links
 * [Amazon Developer Services](https://developer.amazon.com/)
 * [Amazon Web Services](https://aws.amazon.com/)
-* [Amazon Alexa](https://aws.amazon.com/)
+* [Amazon Alexa](https://alexa.amazon.com)
 * [Echoism](https://echosim.io/)
 
 ## Additional Resources
